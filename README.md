@@ -1,0 +1,2 @@
+# OpenHP
+Open Health Platform is an open source digital health platform for regional health authorities in developing countries to fast track adoption of digital health within facilities in their jurisdiction. The platform allows for one unique longitudinal healthcare record for each citizen and sharing of healthcare data among the stakeholders easily as well as providing aggregate healthcare data for their region in a simple and secure manner.
