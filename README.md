@@ -3,18 +3,19 @@ Open Health Platform is an open source digital health platform for regional heal
 The platform is patient centric and we expect the citizens would be able to interact with healthcare through a mobile app and be able to view their healthcare data.
 
 # Backend Infrastructure
-OpenHP would be a fhir-first and fhir-native aplication. It is a cloud-hybrid solution with offline-first capability. This implies that it can work where internet connectivty is not constant. As a cloud hybrid solution, it would have a local application server within the facility or organization that is able to synch data  with the cloud SaaS solution based on internet availability as well as synch with webapp or andriod apps on a mobile client device. The mobile client device (via webapp or andriod app) would be able to synch data with the Cloud SaaS solution and/or the local organization application server. Effectively you have a three-way sync.
-OpenHP would be reactive or realtime event driven enabling secure chat messaging and event driven updates and notification.
-Security via OAuth 2.0 and HIPAA /GDPR compliance (with possible Meaningful use certification : is ths still a thing!)
-Possible extension of data storage to meet ISO 3606 spec (OpenEHR) down the line.
-Ability to deploy backend as a microsoervice, docker /kubernetes implementation.
-Ability to deploy Smart on FHIR apps would be an added advantage.
-Utilization of terminologies such as ICD10, SNOMED, RXNORM, LOINC and other codeset would be important.
-We expect to be able to implement realtime analytics and potential data pipeline for machine learning.
-We expect to be able to share verify managed care clients, claims information and implement contracts between providers and insurers.
-OpenHP would enable facilities offer telemedicine services to clients as well as intergrate with LIS and DICOM modalities (PACS/RIS) within a facility.
-OpenHP would be a multi-tenanted solution.
-OpenHP would be able to push data to DHIS and generate the NHMIS Monthly summary report.
+1. OpenHP would be a fhir-first and fhir-native aplication. 
+1. It is a cloud-hybrid solution with offline-first capability. This implies that it can work where internet connectivty is not constant. As a cloud hybrid solution, it would have a local application server within the facility or organization that is able to synch data  with the cloud SaaS solution based on internet availability as well as synch with webapp or andriod apps on a mobile client device. The mobile client device (via webapp or andriod app) would be able to synch data with the Cloud SaaS solution and/or the local organization application server. Effectively you have a three-way sync.
+1. OpenHP would be reactive or realtime event driven enabling secure chat messaging and event driven updates and notification.
+1. Security via OAuth 2.0 and HIPAA /GDPR compliance (with possible Meaningful use certification : is ths still a thing!)
+1. Ability to deploy backend as a microsoervice, docker /kubernetes implementation.
+1. Ability to deploy Smart on FHIR apps would be an added advantage.
+1. Utilization of terminologies such as ICD10, SNOMED, RXNORM, LOINC and other codeset would be important.
+1. We expect to be able to implement realtime analytics and potential data pipeline for machine learning.
+1. We expect to be able to share verify managed care clients, claims information and implement contracts between providers and insurers.
+1. OpenHP would enable facilities offer telemedicine services to clients as well as intergrate with LIS and DICOM modalities (PACS/RIS) within a facility.
+1. OpenHP SaaS Cloud would be a multi-tenanted solution.
+1. OpenHP would be able to push data to DHIS and generate the NHMIS Monthly summary report.
+1. Possible extension of data storage to meet ISO 3606 spec (OpenEHR) down the line.
 
 **MODULES**
 1. User Management
