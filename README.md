@@ -14,7 +14,7 @@ The platform is patient centric and we expect the citizens would be able to inte
 1. We expect to be able to share verify managed care clients, claims information and implement contracts between providers and insurers.
 1. OpenHP would enable facilities offer telemedicine services to clients as well as intergrate with LIS and DICOM modalities (PACS/RIS) within a facility.
 1. OpenHP SaaS Cloud would be a multi-tenanted solution.
-1. OpenHP would be able to push data to DHIS and generate the NHMIS Monthly summary report.
+1. OpenHP would be able to push data to DHIS2 and generate the NHMIS Monthly summary report.
 1. Possible extension of data storage to meet ISO 3606 spec (OpenEHR) down the line.
 
 **MODULES**
