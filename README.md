@@ -3,7 +3,7 @@ Open Health Platform is an open source digital health platform for regional heal
 The platform is patient centric and we expect the citizens would be able to interact with healthcare through a mobile app and be able to view their healthcare data.
 
 # Backend Infrastructure
-1. OpenHP would be a fhir-first and fhir-native aplication. 
+1. OpenHP would be a fhir-first and fhir-native aplication (https://www.hl7.org/fhir/). 
 1. It is a cloud-hybrid solution with offline-first capability. This implies that it can work where internet connectivty is not constant. As a cloud hybrid solution, it would have a local application server within the facility or organization that is able to synch data  with the cloud SaaS solution based on internet availability as well as synch with webapp or andriod apps on a mobile client device. The mobile client device (via webapp or andriod app) would be able to synch data with the Cloud SaaS solution and/or the local organization application server. Effectively you have a three-way sync.
 1. OpenHP would be reactive or realtime event driven enabling secure chat messaging and event driven updates and notification.
 1. Security via OAuth 2.0 and HIPAA /GDPR compliance (with possible Meaningful use certification : is ths still a thing!)
